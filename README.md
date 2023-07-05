@@ -31,7 +31,7 @@ Keyboard:
 [![DaddyMilker](https://github.com/DaddyMilker.png?size=30)](https://github.com/DaddyMilker "DaddyMilker on GitHub")
 [![Emka5885](https://github.com/Emka5885.png?size=30)](https://github.com/Emka5885 "Emka5885 on GitHub")
 [![Daria Majchrowska](https://github.com/Daria13szamman.png?size=30)](https://github.com/Daria13szamman "Daria13szamman on GitHub")
-[![Nathaneel](https://github.com/NNathaneel.png?size=30)](https://github.com/NNathaneel)
+[![Nathaneel](https://github.com/NNathaneel.png?size=30)](https://linktr.ee/nathaneel)
 [<img alt="Ikien" width="30px" src="/Content/Art/Creators/Ikien.png" />](https://www.instagram.com/ikien_artstudio)
 [<img alt="q360" width="30px" src="/Content/Art/Creators/q360.png" />](https://www.instagram.com/q360__)
 [<img alt="Laura" width="30px" src="/Content/Art/Creators/Laura.png" />](https://www.instagram.com/prekognicja_)
